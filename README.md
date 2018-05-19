@@ -1,3 +1,1 @@
 # Potatos-Dragons
-Cool
-<_<
