@@ -1,0 +1,941 @@
+﻿Log file open, 05/17/18 17:00:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RE_Indigos
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2126153897) SRandInit(-2126153897).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.185983
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.17-15.00.37:562][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-15.00.37:562][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.17-15.00.37:572][  0]LogInit: Computer: DARKI-PC
+[2018.05.17-15.00.37:572][  0]LogInit: User: Josito
+[2018.05.17-15.00.37:572][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.17-15.00.37:572][  0]LogInit: High frequency timer resolution =2.648442 MHz
+[2018.05.17-15.00.37:572][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.05.17-15.00.37:572][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.17-15.00.37:572][  0]LogMemory: Process Physical Memory: 271.00 MB used, 271.00 MB peak
+[2018.05.17-15.00.37:572][  0]LogMemory: Process Virtual Memory: 269.54 MB used, 269.54 MB peak
+[2018.05.17-15.00.37:572][  0]LogMemory: Physical Memory: 3135.12 MB used,  5019.90 MB free, 8155.02 MB total
+[2018.05.17-15.00.37:572][  0]LogMemory: Virtual Memory: 4756.61 MB used,  5019.90 MB free, 134217728.00 MB total
+[2018.05.17-15.00.37:774][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.05.17-15.00.37:774][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.05.17-15.00.38:195][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.17-15.00.38:485][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.17-15.00.38:546][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.17-15.00.38:546][  0]LogD3D11RHI:       8079/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.05.17-15.00.38:548][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.17-15.00.38:548][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.17-15.00.38:548][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.17-15.00.38:553][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.17-15.00.38:553][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.17-15.00.38:553][  0]LogWindows: EnumDisplayDevices:
+[2018.05.17-15.00.38:553][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.17-15.00.38:553][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.05.17-15.00.38:554][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.17-15.00.38:554][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.17-15.00.38:554][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.17-15.00.38:554][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.17-15.00.38:554][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.17-15.00.38:554][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.17-15.00.38:554][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.05.17-15.00.38:592][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.17-15.00.38:610][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.17-15.00.38:653][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Intermediate/Shaders/WorkingDirectory/9944/).
+[2018.05.17-15.00.38:653][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Josito/AppData/Local/Temp/UnrealShaderWorkingDir/BADEB0DC46D28EE9D6BA9B88F5D12351/'.
+[2018.05.17-15.00.38:653][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.17-15.00.39:584][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.17-15.00.39:650][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.17-15.00.39:716][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.17-15.00.39:783][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.17-15.00.39:851][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.17-15.00.39:917][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.17-15.00.39:983][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.17-15.00.40:049][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.17-15.00.40:109][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.17-15.00.40:173][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.17-15.00.40:238][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.17-15.00.40:304][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.17-15.00.40:369][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.17-15.00.40:433][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.17-15.00.40:565][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.17-15.00.40:565][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.17-15.00.40:629][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.17-15.00.40:683][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.17-15.00.40:793][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.17-15.00.40:824][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.17-15.00.40:890][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.17-15.00.40:953][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.17-15.00.41:017][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.17-15.00.41:082][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.17-15.00.41:082][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.17-15.00.41:689][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.17-15.00.41:766][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/Josito/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.17-15.00.41:766][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Josito/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.17-15.00.41:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.17-15.00.41:766][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.17-15.00.41:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.17-15.00.41:766][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.17-15.00.41:783][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.17-15.00.41:796][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Josito/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.17-15.00.41:807][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.17-15.00.41:807][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.17-15.00.41:808][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-15.00.41:808][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.17-15.00.42:198][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.17-15.00.42:619][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.17-15.00.42:674][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.17-15.00.42:674][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.17-15.00.42:674][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.17-15.00.42:674][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.17-15.00.42:674][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.17-15.00.42:715][  0]LogNetVersion: RE_Indigos , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3159433462)
+[2018.05.17-15.00.42:923][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.05.17-15.00.43:479][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.027208 seconds
+[2018.05.17-15.00.43:484][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.17-15.00.43:484][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.05.17-15.00.43:484][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.17-15.00.43:552][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.17-15.00.47:099][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.17-15.00.47:157][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.17-15.00.48:150][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.17-15.00.48:776][  0]SourceControl: Source control is disabled
+[2018.05.17-15.00.48:776][  0]SourceControl: Source control is disabled
+[2018.05.17-15.00.48:872][  0]SourceControl: Source control is disabled
+[2018.05.17-15.00.48:986][  0]SourceControl: Source control is disabled
+[2018.05.17-15.00.51:582][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.17-15.00.52:064][  0]LogOcInput: OculusInput pre-init called
+[2018.05.17-15.00.52:538][  0]LogEngine: Initializing Engine...
+[2018.05.17-15.00.52:541][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.17-15.00.52:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.17-15.00.52:811][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.17-15.00.53:012][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.17-15.00.53:041][  0]LogInit: XAudio2 using 'Altavoces (C-Media PCI Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.17-15.00.53:069][  0]LogInit: FAudioDevice initialized.
+[2018.05.17-15.00.53:166][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/Josito/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.17-15.00.53:182][  0]LogInit: Texture streaming: Enabled
+[2018.05.17-15.00.53:318][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.17-15.00.53:499][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.17-15.00.53:536][  0]LogInit: Transaction tracking system initialized
+[2018.05.17-15.00.54:008][  0]BlueprintLog: New page: Editor Load
+[2018.05.17-15.00.55:317][  0]LocalizationService: Localization service is disabled
+[2018.05.17-15.00.56:087][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.05.17-15.00.56:087][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.05.17-15.00.56:087][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.05.17-15.00.56:433][  0]LogConsoleResponse: Display: 
+[2018.05.17-15.00.56:663][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.17-15.00.56:663][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.17-15.00.56:663][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.17-15.00.57:143][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/' took 0.01s
+[2018.05.17-15.00.58:449][  0]SourceControl: Source control is disabled
+[2018.05.17-15.00.58:449][  0]Cmd: MAP LOAD FILE="D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Maps/0_IndigosTestMap/IndigosTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.17-15.00.58:449][  0]LightingResults: New page: Lighting Build
+[2018.05.17-15.00.58:507][  0]MapCheck: New page: Map Check
+[2018.05.17-15.00.58:507][  0]LightingResults: New page: Lighting Build
+[2018.05.17-15.00.58:843][  0]LogAIModule: Creating AISystem for world IndigosTestMap
+[2018.05.17-15.00.58:863][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.17-15.00.58:877][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.17-15.00.58:964][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.681ms to complete.
+[2018.05.17-15.00.58:964][  0]LogFileHelpers: Loading map 'IndigosTestMap' took 0.514
+[2018.05.17-15.00.59:127][  0]LogCollectionManager: Loaded 0 collections in 0.002381 seconds
+[2018.05.17-15.00.59:233][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Saved/Collections/' took 0.01s
+[2018.05.17-15.00.59:233][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Developers/Josito/Collections/' took 0.01s
+[2018.05.17-15.00.59:233][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Collections/' took 0.01s
+[2018.05.17-15.00.59:233][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.17-15.00.59:242][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
+[2018.05.17-15.00.59:340][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.17-15.00.59:402][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.17-15.00.59:461][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.17-15.00.59:479][  0]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.17-15.00.59:484][  0]LogSlate: Took 0.000404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.17-15.00.59:492][  0]LogSlate: Took 0.000776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.17-15.00.59:645][  0]LogRenderer: Reallocating scene render targets to support 1288x660 Format 10 NumSamples 1 (Frame:1).
+[2018.05.17-15.00.59:854][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.17-15.00.59:854][  0]LogLoad: (Engine Initialization) Total time: 25.50 seconds
+[2018.05.17-15.00.59:854][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.17-15.00.59:854][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.05.17-15.00.59:864][  0]Cmd: ACTOR SELECT MATCHINGSTATICMESH ALLCLASSES
+[2018.05.17-15.00.59:865][  0]LogEditorActor: No worlds found in edactSelectMatchingStaticMesh
+[2018.05.17-15.00.59:884][  0]LogAssetRegistry: Asset discovery search completed in 16.9840 seconds
+[2018.05.17-15.00.59:886][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.17-15.00.59:886][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2018.05.17-15.00.59:889][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.17-15.01.00:883][103]LogSlate: Took 0.000335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.17-15.06.52:780][199]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.17-15.06.52:804][199]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap' with GeneratedClass '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap_C' with ClassGeneratedBy '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap'
+[2018.05.17-15.06.52:804][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.17-15.06.52:805][199]PIE: New page: PIE session: IndigosTestMap (May 17, 2018, 7:06:52 PM)
+[2018.05.17-15.06.52:805][199]LogPlayLevel: Creating play world package: /Game/Maps/0_IndigosTestMap/UEDPIE_0_IndigosTestMap
+[2018.05.17-15.06.52:838][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031804s)
+[2018.05.17-15.06.52:838][199]LogAIModule: Creating AISystem for world IndigosTestMap
+[2018.05.17-15.06.52:838][199]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.05.17-15.06.52:838][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap to /Game/Maps/0_IndigosTestMap/UEDPIE_0_IndigosTestMap.IndigosTestMap (0.033163s)
+[2018.05.17-15.06.52:876][199]LogInit: XAudio2 using 'Altavoces (C-Media PCI Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.17-15.06.52:885][199]LogInit: FAudioDevice initialized.
+[2018.05.17-15.06.53:228][199]LogLoad: Game class is 'GameMode_BP_C'
+[2018.05.17-15.06.53:232][199]LogWorld: Bringing World /Game/Maps/0_IndigosTestMap/UEDPIE_0_IndigosTestMap.IndigosTestMap up for play (max tick rate 0) at 2018.05.17-17.06.53
+[2018.05.17-15.06.53:233][199]LogWorld: Bringing up level for play took: 0.002595
+[2018.05.17-15.06.53:292][199]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.17-15.06.53:296][199]PIE: Play in editor start time for /Game/Maps/0_IndigosTestMap/UEDPIE_0_IndigosTestMap -0.169
+[2018.05.17-15.06.53:297][199]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap' with GeneratedClass '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap_C' with ClassGeneratedBy '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap'
+[2018.05.17-15.07.06:741][795]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap' with GeneratedClass '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap_C' with ClassGeneratedBy '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap'
+[2018.05.17-15.07.06:777][795]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap' with GeneratedClass '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap_C' with ClassGeneratedBy '/Game/Maps/0_IndigosTestMap/IndigosTestMap.IndigosTestMap:PersistentLevel.IndigosTestMap'
+[2018.05.17-15.08.35:492][494]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2018.05.17-15.08.35:492][494]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:492][494]LoadErrors: Error: /Game/Blueprints/Main_Sam_BP : Can't find file for asset. /Game/Mannequin/Animations/ThirdPerson_AnimBP
+[2018.05.17-15.08.35:492][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:493][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:493][494]LoadErrors: Error: /Game/Blueprints/Main_Sam_BP : Can't find file for asset. /Game/Blueprints/Characters/Main_Character_BP
+[2018.05.17-15.08.35:493][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:493][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:494][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Rafi_BP'
+[2018.05.17-15.08.35:494][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Rafi_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:494][494]LoadErrors: Error: /Game/Blueprints/Main_Sam_BP : Can't find file for asset. /Game/Blueprints/Characters/Main_Rafi_BP
+[2018.05.17-15.08.35:494][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Controllers/Main_PlayerController'
+[2018.05.17-15.08.35:494][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Controllers/Main_PlayerController' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:494][494]LoadErrors: Error: /Game/Blueprints/Main_Sam_BP : Can't find file for asset. /Game/Blueprints/Controllers/Main_PlayerController
+[2018.05.17-15.08.35:501][494]LogLinker: Warning: Can't find file '/Game/Assets/MaterialesTutorial/RubikMaterial'
+[2018.05.17-15.08.35:501][494]LogLinker: Warning: Can't find file for asset '/Game/Assets/MaterialesTutorial/RubikMaterial' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Objects/CubeProjectile.uasset.
+[2018.05.17-15.08.35:501][494]LoadErrors: Error: /Game/Blueprints/Objects/CubeProjectile : Can't find file for asset. /Game/Assets/MaterialesTutorial/RubikMaterial
+[2018.05.17-15.08.35:502][494]LogLinker: Warning: Can't find file '/Game/Assets/MaterialesTutorial/RubikMaterial'
+[2018.05.17-15.08.35:502][494]LogLinker: Warning: Can't find file for asset '/Game/Assets/MaterialesTutorial/RubikMaterial' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Objects/CubeProjectile.uasset.
+[2018.05.17-15.08.35:503][494]LogLinker: Warning: Can't find file '/Game/Assets/MaterialesTutorial/RubikMaterial'
+[2018.05.17-15.08.35:503][494]LogLinker: Warning: Can't find file for asset '/Game/Assets/MaterialesTutorial/RubikMaterial' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:503][494]LoadErrors: Error: /Game/Blueprints/Main_Sam_BP : Can't find file for asset. /Game/Assets/MaterialesTutorial/RubikMaterial
+[2018.05.17-15.08.35:503][494]LogLinker: Warning: Can't find file '/Game/Assets/MaterialesTutorial/RubikMaterial'
+[2018.05.17-15.08.35:504][494]LogLinker: Warning: Can't find file for asset '/Game/Assets/MaterialesTutorial/RubikMaterial' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:505][494]LogLinker: Warning: Can't find file '/Game/Assets/MaterialesTutorial/RubikMaterial'
+[2018.05.17-15.08.35:505][494]LoadErrors: Failed to load /Game/Assets/MaterialesTutorial/RubikMaterial.RubikMaterial Referenced by CubeMesh_GEN_VARIABLE
+[2018.05.17-15.08.35:505][494]LogLinker: Warning: Can't find file for asset '/Game/Assets/MaterialesTutorial/RubikMaterial' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:511][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:511][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:511][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:511][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:511][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:511][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:512][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:512][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:513][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:513][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:513][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:514][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:515][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:515][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:515][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:515][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:515][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:515][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:516][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:517][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:517][494]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.05.17-15.08.35:517][494]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:517][494]LoadErrors: Error: /Game/Blueprints/Main_Sam_BP : Can't find file for asset. /Game/Mannequin/Character/Materials/M_UE4Man_Body
+[2018.05.17-15.08.35:517][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:517][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:517][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Controllers/Main_PlayerController'
+[2018.05.17-15.08.35:517][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Controllers/Main_PlayerController' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:518][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:518][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:518][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Rafi_BP'
+[2018.05.17-15.08.35:518][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Rafi_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:518][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Controllers/Main_PlayerController'
+[2018.05.17-15.08.35:519][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Controllers/Main_PlayerController' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:519][494]LogLinker: Warning: Can't find file '/Game/Mannequin/Animations/ThirdPerson_AnimBP'
+[2018.05.17-15.08.35:519][494]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Animations/ThirdPerson_AnimBP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:520][494]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.05.17-15.08.35:520][494]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:520][494]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2018.05.17-15.08.35:520][494]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:520][494]LoadErrors: Error: /Game/Blueprints/Main_Sam_BP : Can't find file for asset. /Game/Mannequin/Character/Mesh/SK_Mannequin
+[2018.05.17-15.08.35:520][494]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Mesh/SK_Mannequin'
+[2018.05.17-15.08.35:520][494]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Mesh/SK_Mannequin' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading D:/Documentos de Jose/Documentos/GitHub/Potatos-Dragons/RE_Indigos/Content/Blueprints/Main_Sam_BP.uasset.
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:521][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:522][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:523][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:523][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:523][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:523][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:523][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:523][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:524][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:525][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:525][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:525][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:526][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:526][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:526][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:526][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:526][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:526][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:526][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:527][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:528][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:529][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:530][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:531][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:532][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:533][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:534][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:535][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:535][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:535][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:538][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:538][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:538][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:538][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:538][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:539][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:539][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:539][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:539][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:539][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:539][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:539][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:540][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:540][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:540][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:540][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:541][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:541][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:541][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:541][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by Main_Sam_BP
+[2018.05.17-15.08.35:542][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:542][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:542][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:542][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:542][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:542][494]LogBlueprint: Warning: FMemberReference::ResolveMember (GetControlRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:542][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:543][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_CallFunction_2441
+[2018.05.17-15.08.35:543][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:543][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Controllers/Main_PlayerController'
+[2018.05.17-15.08.35:543][494]LoadErrors: Failed to load /Game/Blueprints/Controllers/Main_PlayerController.Main_PlayerController_C Referenced by K2Node_CallFunction_2441
+[2018.05.17-15.08.35:543][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Controllers/Main_PlayerController' while loading NULL.
+[2018.05.17-15.08.35:543][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:543][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:543][494]LogBlueprint: Warning: FMemberReference::ResolveMember (Switch Character) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:544][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_TeleportTo) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:544][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:544][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_AddActorWorldRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:544][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:545][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.35:545][494]LogLinker: Warning: Can't find file '/Game/Mannequin/Character/Materials/M_UE4Man_Body'
+[2018.05.17-15.08.35:545][494]LoadErrors: Failed to load /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body Referenced by K2Node_CallMaterialParameterCollectionFunction_0
+[2018.05.17-15.08.35:545][494]LogLinker: Warning: Can't find file for asset '/Game/Mannequin/Character/Materials/M_UE4Man_Body' while loading NULL.
+[2018.05.17-15.08.35:545][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:545][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_CallParentFunction_0
+[2018.05.17-15.08.35:545][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:546][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:546][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_231
+[2018.05.17-15.08.35:546][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:546][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:546][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:547][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:547][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_3077
+[2018.05.17-15.08.35:547][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:547][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:547][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:547][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:548][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_3135
+[2018.05.17-15.08.35:548][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:548][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:548][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:548][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:548][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_4187
+[2018.05.17-15.08.35:548][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:549][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:549][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:549][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:549][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_4194
+[2018.05.17-15.08.35:549][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:549][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:549][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:550][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:550][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_450
+[2018.05.17-15.08.35:550][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:550][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:550][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:550][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:550][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_518
+[2018.05.17-15.08.35:550][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:551][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:551][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:551][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:551][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_Event_626
+[2018.05.17-15.08.35:551][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:551][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:552][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:552][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:552][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_146
+[2018.05.17-15.08.35:553][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:553][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:553][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:553][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_1714
+[2018.05.17-15.08.35:553][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:553][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:553][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Controllers/Main_PlayerController'
+[2018.05.17-15.08.35:553][494]LoadErrors: Failed to load /Game/Blueprints/Controllers/Main_PlayerController.Main_PlayerController_C Referenced by K2Node_VariableGet_185
+[2018.05.17-15.08.35:553][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Controllers/Main_PlayerController' while loading NULL.
+[2018.05.17-15.08.35:554][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:554][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_185
+[2018.05.17-15.08.35:554][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:554][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:554][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_1899
+[2018.05.17-15.08.35:554][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:554][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:555][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:555][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_1942
+[2018.05.17-15.08.35:555][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:555][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:555][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:555][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_1943
+[2018.05.17-15.08.35:555][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:555][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:556][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:556][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_2233
+[2018.05.17-15.08.35:556][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:556][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:556][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:556][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_2234
+[2018.05.17-15.08.35:556][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:556][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:557][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:557][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_2354
+[2018.05.17-15.08.35:557][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:557][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:557][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:557][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_2942
+[2018.05.17-15.08.35:557][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:558][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:558][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:558][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_308
+[2018.05.17-15.08.35:558][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:558][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:558][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:558][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_309
+[2018.05.17-15.08.35:558][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:559][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:559][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:559][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_3151
+[2018.05.17-15.08.35:559][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:559][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:559][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:559][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_4511
+[2018.05.17-15.08.35:560][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:560][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:560][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:560][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_4521
+[2018.05.17-15.08.35:560][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:560][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:560][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:561][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_4603
+[2018.05.17-15.08.35:561][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:561][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:561][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:561][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_4604
+[2018.05.17-15.08.35:561][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:561][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:562][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Controllers/Main_PlayerController'
+[2018.05.17-15.08.35:562][494]LoadErrors: Failed to load /Game/Blueprints/Controllers/Main_PlayerController.Main_PlayerController_C Referenced by K2Node_VariableGet_7
+[2018.05.17-15.08.35:562][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Controllers/Main_PlayerController' while loading NULL.
+[2018.05.17-15.08.35:562][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Rafi_BP'
+[2018.05.17-15.08.35:562][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Rafi_BP.Main_Rafi_BP_C Referenced by K2Node_VariableGet_7
+[2018.05.17-15.08.35:562][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Rafi_BP' while loading NULL.
+[2018.05.17-15.08.35:562][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Controllers/Main_PlayerController'
+[2018.05.17-15.08.35:563][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Controllers/Main_PlayerController' while loading NULL.
+[2018.05.17-15.08.35:564][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:564][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_8264
+[2018.05.17-15.08.35:564][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:564][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:564][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:564][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_8268
+[2018.05.17-15.08.35:564][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:565][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:565][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:565][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableGet_8305
+[2018.05.17-15.08.35:565][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:565][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:565][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:566][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_1223
+[2018.05.17-15.08.35:566][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:566][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:566][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:566][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_1234
+[2018.05.17-15.08.35:566][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:567][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:567][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:567][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_127
+[2018.05.17-15.08.35:567][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:567][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:567][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:567][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_1465
+[2018.05.17-15.08.35:568][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:568][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:568][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_157
+[2018.05.17-15.08.35:568][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:569][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:569][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_158
+[2018.05.17-15.08.35:569][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:569][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:569][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:570][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_159
+[2018.05.17-15.08.35:570][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:570][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:570][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_220
+[2018.05.17-15.08.35:570][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:570][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:571][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:571][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_3134
+[2018.05.17-15.08.35:571][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:571][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:571][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:572][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_3145
+[2018.05.17-15.08.35:572][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:572][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:572][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:572][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_3224
+[2018.05.17-15.08.35:572][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:573][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:573][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:573][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by K2Node_VariableSet_888
+[2018.05.17-15.08.35:573][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:573][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:573][494]LogLinker: Warning: Can't find file '/Game/Blueprints/Characters/Main_Character_BP'
+[2018.05.17-15.08.35:574][494]LoadErrors: Failed to load /Game/Blueprints/Characters/Main_Character_BP.Main_Character_BP_C Referenced by PackageMetaData
+[2018.05.17-15.08.35:574][494]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Characters/Main_Character_BP' while loading NULL.
+[2018.05.17-15.08.35:574][494]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprints/Main_Sam_BP.Main_Sam_BP_C
+[2018.05.17-15.08.35:585][494]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.17-15.08.37:364][494]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_TeleportTo) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_DestroyActor) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_AddActorWorldRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (Switch Character) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (GetControlRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:428][494]LogBlueprint: Warning: FMemberReference::ResolveMember (K2_GetActorRotation) bSelfContext == true, but no scope supplied!
+[2018.05.17-15.08.37:689][494]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.05.17-15.08.38:350][494]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.365 s
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: 
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 631]
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (Main_Sam_BP) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: Stack: 
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x0000000077B92786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x000000007793123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x000000007794B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000759A41ED UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000759A501D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000759A4CF9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000716A53E5 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000716E3CB4 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000716A5D4A UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000718ADBF7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000718D869C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000718DAEAC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x0000000070177F18 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x000000007009DEAA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x000000007189C5BA UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000718BCD6D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000718B8F09 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x000000007189BBFE UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000718B94D6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x00000000715E90BE UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x0000000071621FDC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:350][494]LogOutputDevice: Error: [Callstack] 0x0000000071610CD9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x0000000071692514 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x00000000717ACC1D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005BE2E39E UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x0000000074D459FD UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005BDC6415 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005AC06A18 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005ABB86E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005ABBFF77 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005AC10FA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005ABB6C31 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005ABBED7F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005ABBCA88 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005AC1DB90 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000005AC1120A UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x0000000076C47ADE UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x0000000076C17CEE UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x0000000076CB0B84 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x0000000076C9A492 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x0000000076C8CEB3 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009EF3E4F9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009EF31A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009EF403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009EF2D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x00000000A94A6CC1 USER32.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x00000000A94A6693 USER32.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009EF41516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009F2E50C8 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009F2F5430 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009F2F54AA UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009F302379 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x000000009F303D57 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x00000000AB603034 KERNEL32.DLL!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: [Callstack] 0x00000000AB761551 ntdll.dll!UnknownFunction []
+[2018.05.17-15.08.38:351][494]LogOutputDevice: Error: 
+[2018.05.17-15.08.38:354][494]LogStats:                SubmitErrorReport -  0.000 s
+[2018.05.17-15.08.38:735][494]LogStats:                    SendNewReport -  0.381 s
+[2018.05.17-15.08.38:735][494]LogStats:             FDebug::EnsureFailed -  0.750 s
+[2018.05.17-15.08.38:744][494]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.002 s
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: 
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionFilter.cpp] [Line: 730]
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: Unable to resolve IsFieldInaccessible() - Blueprint (Main_Sam_BP) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: Stack: 
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x0000000077B92786 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000007793123A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000007794B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000759A4B8C UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000759A501D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000759A4CF9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000716A53E5 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000716E3CB4 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000716A5D4A UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000718ADBF7 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000718D869C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000718DAEAC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x0000000070177F18 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000007009DEAA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000007189C5BA UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000718BCD6D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000718B8F09 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000007189BBFE UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000718B94D6 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000715E90BE UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x0000000071621FDC UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x0000000071610CD9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x0000000071692514 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x00000000717ACC1D UE4Editor-Kismet.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000005BE2E39E UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x0000000074D459FD UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000005BDC6415 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000005AC06A18 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000005ABB86E7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000005ABBFF77 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:744][494]LogOutputDevice: Error: [Callstack] 0x000000005AC10FA9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000005ABB6C31 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000005ABBED7F UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000005ABBCA88 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000005AC1DB90 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000005AC1120A UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x0000000076C47ADE UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x0000000076C17CEE UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x0000000076CB0B84 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x0000000076C9A492 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x0000000076C8CEB3 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009EF3E4F9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009EF31A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009EF403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009EF2D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x00000000A94A6CC1 USER32.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x00000000A94A6693 USER32.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009EF41516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009F2E50C8 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009F2F5430 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009F2F54AA UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009F302379 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x000000009F303D57 UE4Editor.exe!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x00000000AB603034 KERNEL32.DLL!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: [Callstack] 0x00000000AB761551 ntdll.dll!UnknownFunction []
+[2018.05.17-15.08.38:745][494]LogOutputDevice: Error: 
+[2018.05.17-15.08.38:748][494]LogStats:                SubmitErrorReport -  0.000 s
